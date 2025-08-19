@@ -1,8 +1,12 @@
 # echo-chamber
-![Echo chamber logo](/assets/logo.png)
 Personal productivity.
 
+<img src="assets/logo.png" alt="Echo chamber logo" width="150">
 
+---
+
+
+### Folders:
  - 60hr workweek
 
 
